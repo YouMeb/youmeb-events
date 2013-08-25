@@ -1,0 +1,21 @@
+{
+  "name": "youmeb-events",
+  "version": "0.0.0",
+  "description": "",
+  "main": "./lib/events.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/YouMeb/youmeb-events.git"
+  },
+  "keywords": [
+    "youmeb"
+  ],
+  "author": "Po-Ying Chen <poying.me@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/YouMeb/youmeb-events/issues"
+  }
+}
